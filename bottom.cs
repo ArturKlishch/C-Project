@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class act : MonoBehaviour
 {
-    public GameObject[] firstGroup;
-    public GameObject[] secondGroup;
-    public act button;
      public Material transparent;
     public bool canPush;
+     public GameObject[] firstGroup;
+    public GameObject[] secondGroup;
+    public act button;
     public Material normal;
    
 
