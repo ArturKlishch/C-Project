@@ -7,9 +7,10 @@ public class act : MonoBehaviour
     public GameObject[] firstGroup;
     public GameObject[] secondGroup;
     public act button;
-    public Material normal;
-    public Material transparent;
+     public Material transparent;
     public bool canPush;
+    public Material normal;
+   
 
 
     private void OnTriggerEnter(Collider other)
