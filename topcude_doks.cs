@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
 public class topcude : MonoBehaviour
 {
     //te linie sa odpowiedzialne za określenie dowolnego klawisza do przesuwania naszych kostek
